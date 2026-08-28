@@ -12,7 +12,4 @@ Hi there! I'm a third year university student deeply passionate about Data Scien
 ![](https://streak-stats.demolab.com/?user=richieseb&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=richieseb&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=richieseb&icon=9&color=5)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
