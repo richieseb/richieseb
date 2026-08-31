@@ -1,6 +1,6 @@
-# Hi there, I'm Richie!
+# Hi there, I'm Richie! 👋
 
-I'm a third-year Computer Science undergraduate deeply passionate about Data Science, Artificial Intelligence, and Software Engineering. I focus on developing machine learning workflows, mastering data structures & algorithms, and exploring the mathematical foundations behind modern intelligent systems.
+I'm a third-year Computer Science undergraduate deeply passionate about **Data Science, Artificial Intelligence, and Software Engineering**. I focus on developing machine learning workflows, mastering data structures & algorithms, and exploring the mathematical foundations behind modern intelligent systems.
 
 * 🎯 **Algorithmic Problem Solving:** Sharpening DSA skills through pattern-based problem solving (Sliding Window, Dynamic Programming, Two Pointers).
 * 🧠 **AI & Machine Learning:** Building end-to-end intelligent pipelines, including computer vision systems leveraging facial landmark detection and skin tone analysis.
@@ -50,7 +50,6 @@ I'm a third-year Computer Science undergraduate deeply passionate about Data Sci
 
 ### 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=richieseb&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=richieseb&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <br/>
