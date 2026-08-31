@@ -50,10 +50,11 @@ I'm a third-year Computer Science undergraduate deeply passionate about Data Sci
 
 ### 📊 GitHub Stats:
 
+<img src="https://github-readme-stats.vercel.app/api?username=richieseb&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=richieseb&theme=dark&hide_border=true&cache_seconds=1800&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=richieseb&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=richieseb&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=richieseb&theme=dark&hide_border=true&cache_seconds=1800&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richieseb&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
