@@ -1,16 +1,17 @@
-# Hi there, I'm Richie! 👋
+# Hi there, I'm Richie!
 
-I'm a third-year Computer Science undergraduate deeply passionate about **Data Science, Artificial Intelligence, and Software Engineering**. I focus on developing machine learning workflows, mastering data structures & algorithms, and exploring the mathematical foundations behind modern intelligent systems.
+I'm a third-year Computer Science undergraduate deeply passionate about Data Science, Artificial Intelligence, and Software Engineering. undergraduate focused on Data Science and Artificial Intelligence. I specialize in statistical data analysis, machine learning workflows, and mathematical modeling using Python. Passionate about building robust analytical pipelines, exploring predictive modeling, and solving real-world problems with data.
 
-* 🎯 **Algorithmic Problem Solving:** Sharpening DSA skills through pattern-based problem solving (Sliding Window, Dynamic Programming, Two Pointers).
-* 🧠 **AI & Machine Learning:** Building end-to-end intelligent pipelines, including computer vision systems leveraging facial landmark detection and skin tone analysis.
-* 📐 **Core Focus:** Mathematical Foundations of ML, Probability & Statistics, Predictive Analytics.
+Focus: Data Science, Machine Learning, and Statistical Modeling
+Tech Stack: Python (NumPy, Pandas, Scikit-Learn), SQL, Git
+Core Strengths: Exploratory Data Analysis (EDA), Probability & Statistics, Data Structures & Algorithms
+Currently Working On: End-to-end ML projects, predictive analytics pipelines, and advanced algorithmic problem solving
 
 ---
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richieseb/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritsika.lenka@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritsika.lenka@gmail.com)
 
 ---
 
@@ -47,13 +48,3 @@ I'm a third-year Computer Science undergraduate deeply passionate about **Data S
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richieseb&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=richieseb&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richieseb&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
