@@ -1,6 +1,6 @@
 # Hi there, I'm Richie!
 
-I'm a third-year Computer Science undergraduate deeply passionate about Data Science, Artificial Intelligence, and Software Engineering. undergraduate focused on Data Science and Artificial Intelligence. I specialize in statistical data analysis, machine learning workflows, and mathematical modeling using Python. Passionate about building robust analytical pipelines, exploring predictive modeling, and solving real-world problems with data.
+I'm a third-year Machine Learning undergraduate deeply passionate about Data Science, Artificial Intelligence, and Software Engineering. undergraduate focused on Data Science and Artificial Intelligence. I specialize in statistical data analysis, machine learning workflows, and mathematical modeling using Python. Passionate about building robust analytical pipelines, exploring predictive modeling, and solving real-world problems with data.
 
 Focus: Data Science, Machine Learning, and Statistical Modeling
 Tech Stack: Python (NumPy, Pandas, Scikit-Learn), SQL, Git
@@ -46,5 +46,15 @@ Currently Working On: End-to-end ML projects, predictive analytics pipelines, an
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+
+---
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richieseb/richieseb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richieseb/richieseb/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/richieseb/richieseb/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
