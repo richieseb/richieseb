@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a third year university student deeply passionate about Data Science, Artificial Intelligence, and Software Engineering. I spend my time building machine learning projects, mastering data structures and algorithms, and exploring the mathematical foundations behind modern intelligent systems. <br><br>Algorithmic Problem Solving: Actively sharpening problem-solving skills through pattern-based LeetCode practice (Sliding Window, Dynamic Programming, Two Pointers).<br>AI & Machine Learning Projects: Developing intelligent systems, such as a fashion accessory recommendation pipeline leveraging facial geometry and skin tone analysis.
+Hi there! This is richieseb. I'm a third year university student deeply passionate about Data Science, Artificial Intelligence, and Software Engineering. I spend my time building machine learning projects, mastering data structures and algorithms, and exploring the mathematical foundations behind modern intelligent systems. <br><br>Algorithmic Problem Solving: Actively sharpening problem-solving skills through pattern-based LeetCode practice (Sliding Window, Dynamic Programming, Two Pointers).<br>AI & Machine Learning Projects: Developing intelligent systems, such as a fashion accessory recommendation pipeline leveraging facial geometry and skin tone analysis.
 
 
 ## 🌐 Socials:
