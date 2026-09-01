@@ -1,6 +1,6 @@
 # Hi there, I'm Richie!
 
-I'm a third-year Machine Learning undergraduate deeply passionate about Data Science, Artificial Intelligence, and Software Engineering. undergraduate focused on Data Science and Artificial Intelligence. I specialize in statistical data analysis, machine learning workflows, and mathematical modeling using Python. Passionate about building robust analytical pipelines, exploring predictive modeling, and solving real-world problems with data.
+I'm a third-year Machine Learning undergraduate deeply passionate about Data Science, Artificial Intelligence and Software Engineering. I specialize in statistical data analysis, machine learning workflows, and mathematical modeling using Python. Passionate about building robust analytical pipelines, exploring predictive modeling, and solving real-world problems with data.
 
 Focus: Data Science, Machine Learning, and Statistical Modeling
 Tech Stack: Python (NumPy, Pandas, Scikit-Learn), SQL, Git
